@@ -1,1 +1,1 @@
-# telemetryproj
+he Fleet Management Telemetry API is a backend system built with FastAPI that simulates how connected vehicles send and store real-time telemetry data. It allows users to register vehicles, submit telemetry inputs like speed, fuel level, location, and engine status, and provides alerts for conditions such as overspeeding, low fuel, or engine issues. The project demonstrates core backend skills including REST API design, data validation, and database management using SQLAlchemy and SQLite.
